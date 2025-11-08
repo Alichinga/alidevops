@@ -1,4 +1,4 @@
-name: Build and Deploy NodeJS App on AWS
+name: Barani Image
 on:
   push:
     branches:
